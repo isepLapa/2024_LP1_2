@@ -20,3 +20,18 @@ Compatibilidade:
 
 x86: Tem suporte para software legado (antigo), o que é uma grande vantagem em PCs.
 ARM: Precisa de softwares otimizados para sua arquitetura, mas está se tornando mais comum.
+
+Vantagens ARM
+
+Menor consumo de energia: Ideal para dispositivos móveis e alimentados por bateria.
+Eficiência de custo: Geralmente mais barato de produzir devido ao design mais simples.
+Eficiência térmica: Gera menos calor, reduzindo a necessidade de soluções de refrigeração.
+Prevalência de mercado em dispositivos móveis: Dominante em smartphones e tablets.
+
+Vantagens x86
+
+Alto desempenho: Adequado para tarefas de computação intensivas, incluindo jogos, análise de dados e simulações complexas.
+Extenso ecossistema de software: Ampla gama de aplicativos e sistemas operacionais desenvolvidos para arquitetura x86.
+
+Recursos avançados: oferece suporte a uma ampla variedade de recursos de computação, como hyper-threading, virtualização e conjuntos de instruções complexos.
+ 
