@@ -22,7 +22,7 @@ Isto ajuda na integração entre o Jira e o Github para acompanhar melhor as mud
 > Criar uma branch apartir da main com o nome: "readme/numero", no README.md alterar o tema(se os escolhidos não vos agradar) e também alterar "(Por definir)" para o vosso nome com um link para o vosso Perfil do Github. Quando tiverem todas as alterações abrir um Pull Request para a main branch
 
 - Página Inicial (ARM vs x86) [Emanuel Lapa](https://github.com/isepLapa)
-- Performance (ARM vs x86) (Por definir)
+- Performance (ARM vs x86) [Gonçalo Tavares](https://github.com/GoncaloTavares08)
 - Compatibilidade Software (ARM vs x86) (Por definir)
 - Preços/Custos/Eficiência/Usos (Por definir)
 - Diferenças [JoãoTeixeira] (https://github.com/Jp3teixeira)
