@@ -7,6 +7,14 @@ Visual Studio Code Extensões:
 - Fazer commits / pull requests com nomes que expliquem a mudança feita.
 
 
+### Estrutura dos commits
+  - Exemplo: ISSUE-ID: Update Readme
+  - Exemplo: [LP1-5](https://cpmtr1.atlassian.net/browse/LP1-5): Update Readme
+
+Isto ajuda na integração entre o Jira e o Github para acompanhar melhor as mudanças no projeto
+
+
+
 ## Possivel Estrutura do Projeto
 
 > [!IMPORTANT]  
