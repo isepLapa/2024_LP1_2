@@ -25,7 +25,7 @@ Isto ajuda na integração entre o Jira e o Github para acompanhar melhor as mud
 - Performance (ARM vs x86) [Gonçalo Tavares](https://github.com/GoncaloTavares08)
 - Compatibilidade Software (ARM vs x86) (Por definir)
 - Preços/Custos/Eficiência/Usos (Por definir)
-- Diferenças [JoãoTeixeira] (https://github.com/Jp3teixeira)
+- Diferenças [JoãoTeixeira](https://github.com/Jp3teixeira)
 
 
 ## Coding Guidelines
