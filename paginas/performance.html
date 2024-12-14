@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-Pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Performance(ARM vs x86)</title>
+    <link rel="stylesheet" href="../assets/css/estilos.css">
+</head>
+<body>
+    <header class="centrar">
+        <nav>
+            <ul class="web">
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="performance.html" class="active">Performance</a></li>
+                <li><a href="diferencas.html">Diferenças</a></li>
+            </ul>
+    
+            <div class="mobile">
+                <input type="checkbox" id="menu-toggle" />
+                <label for="menu-toggle" class="menu-icon">&#9776;</label>
+                <ul class="pop-menu">
+                    <label for="menu-toggle" class="close-icon">X</label>
+    
+                    <li><a href="index.html" class="active">Inicio</a></li>
+                    <li><a href="performance.html">Performance</a></li>
+                    <li><a href="diferencas.html">Diferenças</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <h2 class="centrar">Introdução</h2>
+        <p class="centrar">ARM e X86 são os dois tipos de arquiteturas de CPUs dominantes, sendo cada um melhor em diferentes cenários.</p>
+        <p class="centrar"> Vamos agora comparar a diferença de performance entre eles.</p>
+        <div class="right">
+        <img src="../assets/imagens/ARM.png" alt="Imagem ARM vs X86"> 
+        <img src="../assets/imagens/X86.png" alt="Imagem ARM vs X86"> 
+        </div>
+        <article>
+                <h1 class="centrar">ARM</h1>
+                <section>
+                    <h2 class="titulos">Arquitetura RISC</h2>
+                    <ul>
+                        <li><b>ARM</b> é baseado no modelo de Reduced Instruction Set Computing, que utiliza instruções simples, permitindo maior eficiência na execução e no uso de energia. Isso é particularmente vantajoso para dispositivos móveis e servidores.</li>
+                    </ul> 
+                </section>
+                <section>
+                    <h2 class="titulos">Eficiencia Energetica</h2>
+                    <ul>
+                        <li>Processadores <b>ARM</b> são projetados para consumir menos energia, sendo ideais para dispositivos que dependem de bateria, como smartphones e tablets. Servidores modernos, como os baseados no AWS Graviton2, aproveitam essa eficiência para reduzir custos operacionais.</li>
+                </section> 
+                <section>
+                    <h2 class="titulos">Desempenho</h2>
+                    <ul>
+                        <li>Apesar de tradicionalmente focado em eficiência, <b>ARM</b> também mostra elevado desempenho em tarefas paralelas. Estes combinam eficiência com capacidades robustas para tarefas de produtividade e multimídia.</li>
+                    </ul>
+                </section>
+        </article>
+        <article>
+            <h1 class="centrar">X86</h1>
+            <section>
+                <h2 class="titulos">Arquitetura CISC</h2>
+                <ul>
+                    <li>O modelo de Complex Instruction Set Computing permite que o <b>x86</b> execute instruções complexas diretamente, o que garante flexibilidade e maior potência bruta. Isso o torna ideal para aplicações exigentes.</li>
+                </ul> 
+            </section>
+            <section>
+                <h2 class="titulos">Consumo de Energia</h2>
+                <ul>
+                    <li>Embora o <b>x86</b> consuma mais energia, esta diferença é geralmente negligenciada em desktops e servidores de alto desempenho, onde a prioridade é a capacidade computacional.</li>
+            </section> 
+            <section>
+                <h2 class="titulos">Desempenho</h2>
+                <ul>
+                    <li>O <b>x86</b> continua a ser a escolha preferida para tarefas intensivas, como jogos e renderização gráfica. Sua capacidade de lidar com instruções complexas é um fator chave para aplicações que exigem alto processamento.</li>
+                </ul>
+            </section>
+    </article>
+    </main>
+
+    <footer class="centrar">Copyright &copy Goncalo Tavares 2024</footer>
+</body>
+</html>
