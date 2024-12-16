@@ -203,6 +203,14 @@ footer{
     transition: transform 0.3s ease-in-out;
 }
 
+.bento-grid > div:nth-child(2) > a:nth-child(2) {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    height: 200px;
+}
+
 .bento-grid > div:nth-child(2) > a:nth-child(1) > img:hover {
     transform: scale(1.1);
     transition: transform 0.3s ease-in-out;
@@ -211,6 +219,16 @@ footer{
 .bento-grid > div:nth-child(2) > a:nth-child(2) {
     width: 100%;
     overflow: hidden;
+}
+
+.bento-grid > div:nth-child(2) > a:nth-child(2) > img {
+    object-fit: scale-down;
+    transition: transform 0.3s ease-in-out;
+}
+
+.bento-grid > div:nth-child(2) > a:nth-child(2) > img:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
 }
 
 .image-container {
